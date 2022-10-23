@@ -2,7 +2,8 @@
 <h3 align="center">A Computer Science student at CIT-U</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kibyes123&label=Profile%20views&color=0e75b6&style=flat" alt="kibyes123" /> </p>
-![](https://github.com/kibyes123/kibyes123/blob/main/one%20pman.gif)
+![one pman](https://user-images.githubusercontent.com/111719175/197385516-2c131b64-3050-4275-acf9-53b08dccbb57.gif)
+
 - 📫 How to reach me **pauljustine.ardiente@cit.edu**
 
 - ⚡ Fun fact **I'm struggling**
