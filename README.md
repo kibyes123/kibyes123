@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Paul Justine Ardiente</h1>
 <h3 align="center">A Computer Science student at CIT-U</h3>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kibyes123&label=Profile%20views&color=0e75b6&style=flat" alt="kibyes123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kibyes123" alt="kibyes123" /></a> </p>
+
 - 📫 How to reach me **pauljustine.ardiente@cit.edu**
 
 - ⚡ Fun fact **I'm struggling**
