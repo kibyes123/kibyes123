@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kibyes123" alt="kibyes123" /></a> </p>
 
-- 📫 How to reach me **pauljustine.ardiente@cit.edu**
+- 📫 How to reach me **justineardiente@gmail.com**
 
 - ⚡ Fun fact **I'm struggling**
 
